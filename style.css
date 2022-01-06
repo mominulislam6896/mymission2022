@@ -1,0 +1,273 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .container {
+    width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .clr {
+    clear: both;
+  }
+  
+  /* ============================================================
+        Header Parts Starts
+  =============================================================== */
+  
+  #header .header-text {
+    width: 48%;
+    float: left;
+    margin-top: 110px;
+  }
+  
+  #header .header-text .capital-letter {
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+  
+  #header .header-text .purple-color {
+    color: rgb(218, 29, 92);
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 10px;
+  
+  }
+  
+  #header .header-text .para {
+    font-size: 18px;
+    font-weight: 300;
+    margin-bottom: 20px;
+  }
+  
+  #header .header-text .link-btn {
+    text-decoration: none;
+    background-color: rgb(68, 15, 211);
+    color: white;
+    padding: 12px 20px;
+    display: inline-block;
+    font-size: 24px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  #header .image-part {
+    width: 48%;
+    float: left;
+    padding: 09;
+  }
+  
+  #header .image-part img {
+    width: 80%;
+  }
+  
+  /* ============================================================
+        Header Parts Ends
+  =============================================================== */
+  
+  /* ==========================================================
+          Box Parts Starts
+  ============================================================= */
+  
+  
+  #box-part .tittle {
+    text-align: center;
+  }
+  
+  #box-part .tittle .capital {
+    color: rgb(14, 211, 47);
+    font-size: 40px;
+    font-weight: 600;
+  }
+  
+  #box-part .tittle .color {
+    color: rgb(68, 15, 211);
+    font-size: 40px;
+    font-weight: 600;
+  }
+  
+  #box-part .box-shadow .box-item {
+    width: 30%;
+    height: 500px;
+    float: left;
+    background-color: rgba(238, 130, 238, 0.3);
+    margin: 10px;
+    border-radius: 15px;
+    box-shadow: 5px 8px 5px 2px grey;
+  } 
+  
+  #box-part .box-shadow .box-item .box-img img {
+    width: 70%;
+    padding-left: 20px;
+  }
+  
+  #box-part .box-shadow .box-item .box-text h1 {
+    color: black;
+    font-weight: 700;
+    font-size: 30px;
+    padding-left: 20px;
+  }
+  
+  #box-part .box-shadow .box-item .box-text p {
+    color: black;
+    font-weight: 300;
+    font-size: 17px;
+    padding-left: 20px;
+    margin-top: 18px;
+  }
+  
+  /* ==========================================================
+          Box Parts Ends
+  ============================================================= */
+  
+  /* ============================================================
+          Developer Parts Starts
+  =============================================================== */
+  
+  #develop {
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  
+  #develop .develop-img {
+    width: 50%;
+    float: left;
+  }
+  
+  #develop .develop-img img {
+    width: 60%;
+  }
+  
+  #develop .develop-text {
+    width: 50%;
+    float: left;
+  }
+  
+  #develop .develop-text h1 {
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 10px;
+  }
+  
+  #develop .develop-text h2 {
+    font-size: 30px;
+    font-weight: 400;
+    margin-bottom: 10px;
+  }
+  
+  #develop .develop-text p {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 300;
+    margin-bottom: 15px;
+    width: 541px;
+  }
+  
+  
+  #develop .develop-text .btn {
+    text-decoration: none;
+    padding: 12px 20px;
+    font-size: 25px;
+    background-color: rgb(68, 15, 211);
+    color: white;
+    display: inline-block;
+    border-radius: 10px;
+  }
+  
+  /* ============================================================
+          Developer Parts Ends
+  =============================================================== */
+  
+  /* ======================================================
+        GLobal Parts Starts
+  ========================================================= */
+  
+  #global {
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  
+  #global .global-part {
+    width: 50%;
+    float: left;
+  }
+  
+  #global .global-part h1 {
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 10px;
+  }
+  
+  #global .global-part h2 {
+    font-size: 30px;
+    font-weight: 400;
+    margin-bottom: 10px;
+  }
+  
+  #global .global-part p {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 300;
+    margin-bottom: 15px;
+    width: 541px;
+  }
+  
+  .mmmm{
+      color: black;
+     text-decoration: none;
+     padding: 12px 20px;
+     font-size: 25px;
+     background-color: rgb(68, 15, 211);
+     color: white;
+     display: inline-block;
+     border-radius: 10px;
+  }
+  
+  #global .global-img {
+    width: 50%;
+    float: left;
+    text-align: right;
+  }
+  
+  #global .global-img img {
+    width: 60%;
+  }
+  
+  
+  /* ======================================================
+        GLobal Parts Ends
+  ========================================================= */
+  
+  /* ====================================================
+        footer part start
+  ======================================================= */
+  
+  footer {
+    background-color: black;
+    padding: 40px 0;
+    text-align: center;
+  }
+  
+  footer h1 {
+    color: white;
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 10px;
+  }
+  
+  footer .orange-color {
+    color: orangered;
+  }
+  
+  footer p {
+    color: white;
+    font-weight: 400;
+    font-size: 24px;
+  }
+  
+  /* ====================================================
+        footer part Ends
+  ======================================================= */
